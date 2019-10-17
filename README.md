@@ -19,6 +19,10 @@ If you want to see the bot improve or just want to practice some coding skills, 
 
 ### Windows
 
+- Install VScode - https://code.visualstudio.com/
+- Instal DotNet - https://dotnet.microsoft.com/download/dotnet-core/2.2
+- Install Visual C++ Redistributable for Visual Studio 2015 - https://www.microsoft.com/en-us/download/details.aspx?id=48145
+
 All dependencies should come via NuGet, no custom builds necessary.
 
 ### Linux
